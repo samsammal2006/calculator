@@ -55,19 +55,19 @@ button:hover {
 }
 
 .clear-button {
-    background-color: orange; /* Set background color to orange */
+    background-color: orange; 
     color: white;
 }
 
 .clear-button:hover {
-    background-color: darkorange; /* Darker shade on hover */
+    background-color: darkorange; 
 }
 
 .del-button {
-    background-color: orange; /* Set background color to orange */
+    background-color: orange; 
     color: white;
 }
 
 .del-button:hover {
-    background-color: darkorange; /* Darker shade on hover */
+    background-color: darkorange;
 }
